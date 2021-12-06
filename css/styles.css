@@ -161,13 +161,15 @@ body  {
     color: var(--accent-color);
   }
 
+  .header-contacts {
+    margin-right: 0;
+    margin-left: 30px;
+  }
 
   .header-mail {
     display: flex;
     align-items: center;
     font-weight: 500;
-    margin-right: 0;
-    margin-left: 30px;
     font-size: 14px;
     line-height: 1.33;
     letter-spacing: 0.02em;
